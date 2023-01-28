@@ -1,0 +1,16 @@
+@import "config/variables.scss";
+@import "config/layout.scss";
+@import "config/colors.scss";
+
+@import "utilities/spacing.scss";
+
+@import "base/fonts.scss";
+@import "base/global.scss";
+@import "base/typography.scss";
+@import "base/links.scss";
+
+$background-color: silver;
+
+body {
+  background-color: $background-color;
+}
