@@ -10,6 +10,7 @@ $icon-size: 20px;
   border-top: 3px solid $color-banner-dark;
   padding: spacing("small") spacing("extra-wide");
   position: relative;
+  transform-origin: top;
 }
 
 .c-banner__title {
